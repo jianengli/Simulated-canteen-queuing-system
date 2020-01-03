@@ -1,4 +1,4 @@
-# simulating-canteen-queuing-system
+# Simulating-canteen-queuing-system
 The system is a desktop application for simulating canteen queues based on Java.
 
 ## Table of Contents
